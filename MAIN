@@ -25,6 +25,7 @@ public class MAIN {
         System.out.println(quotes[random.nextInt(gitFlashCards.length)]);
         System.out.println("hello");
         System.out.println("hello number 2 modified");
+        System.out.println("hello number 2");
     }
 
 }
