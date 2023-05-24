@@ -3,7 +3,7 @@ import java.util.Random;
 public class MAIN {
 
     public static void main(String[] args) {
-
+        int x = 9;
         String[] gitFlashCards = {
 
             "Git is a free and open-source distributed version control system.",
